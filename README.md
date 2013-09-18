@@ -13,3 +13,4 @@ include autoenv
 ## Required Puppet Modules
 
 * `boxen`
+* `homebrew`
